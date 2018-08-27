@@ -5,5 +5,5 @@ services:
       context: .
     image: myrepo/httpd
     ports:
-     - "8090:80"
+     - "8091:80"
     container_name: httpapp
